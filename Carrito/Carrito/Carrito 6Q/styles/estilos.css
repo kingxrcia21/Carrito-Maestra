@@ -1,0 +1,12 @@
+
+        header{
+            font-style:italic ;
+            border: 1px solid black;  
+            width: 100%; 
+            height: auto; 
+            max-height: 100%; 
+            background-color: red;
+        }
+        img{
+           width: 500px; 
+        } 
